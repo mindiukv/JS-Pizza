@@ -10,7 +10,7 @@ var pizza_info = [
         type: 'М’ясна піца',
         content: {
             meat: ['балик', 'салямі'],
-            chicken: ['куриця'],
+            chicken: ['курятина'],
             cheese: ['сир моцарелла', 'сир рокфорд'],
             pineapple: ['ананаси'],
             additional: ['томатна паста', 'петрушка']
@@ -37,7 +37,7 @@ var pizza_info = [
         content: {
             meat: ['мисливські ковбаски', 'ковбаски папероні', 'шинка'],
             cheese: ['сир домашній'],
-            mushroom: ['шампінйони'],
+            mushroom: ['шампіньйони'],
             additional: ['петрушка', 'оливки']
         },
         small_size:{
@@ -58,7 +58,7 @@ var pizza_info = [
         title: "Міксовий поло",
         type: 'М’ясна піца',
         content: {
-            meat: ['вітчина', 'куриця копчена'],
+            meat: ['шинка', 'курятина копчена'],
             cheese: ['сир моцарелла'],
             pineapple: ['ананаси'],
             additional: ['кукурудза', 'петрушка', 'соус томатний']
@@ -80,9 +80,9 @@ var pizza_info = [
         title: "Сициліано",
         type: 'М’ясна піца',
         content: {
-            meat: ['вітчина', 'салямі'],
+            meat: ['шинка', 'салямі'],
             cheese: ['сир моцарелла'],
-            mushroom: ['шампінйони'],
+            mushroom: ['шампіньйони'],
             additional: ['перець болгарський',  'соус томатний']
         },
         small_size:{
@@ -120,7 +120,7 @@ var pizza_info = [
         content: {
             meat: ['ковбаски'],
             cheese: ['сир моцарелла'],
-            mushroom: ['шампінйони'],
+            mushroom: ['шампіньйони'],
             pineapple: ['ананаси'],
             additional: ['цибуля кримська', 'огірки квашені', 'соус гірчичний']
         },
@@ -174,4 +174,4 @@ var pizza_info = [
     }
 ];
 
-module.exports = pizza_info;
+// module.exports = pizza_info;
